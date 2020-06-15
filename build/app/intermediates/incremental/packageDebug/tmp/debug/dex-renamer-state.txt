@@ -1,0 +1,4 @@
+#Mon Jun 15 12:12:49 EET 2020
+base.0=/Users/VolkanDagdelen/Desktop/flut/_learn/plantshop_ui/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
