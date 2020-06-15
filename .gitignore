@@ -44,6 +44,6 @@ web/
 pubspec.lock
 README.md
 
-# !/build/
-# /build/*
-# !/build/web/
+!/build/
+/build/*
+!/build/web/
